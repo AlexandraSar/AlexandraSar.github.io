@@ -13,7 +13,7 @@ permalink: /about/
       </p>
     </div>
   </div>
----
+  
  <div class="col-md-6">
     <div class="card p-3 mb-4 shadow-sm">
       <h2>Current Role</h2>
@@ -34,9 +34,7 @@ permalink: /about/
     </div>
   </div>
 </div>
-
 <hr>
----
 <div class="row">
   <div class="col-md-6">
     <div class="card p-3 mb-4 shadow-sm">
@@ -46,8 +44,6 @@ Outside the lab, I spend a lot of time at the gym, drawing, or hanging out with 
       </p>
     </div>
   </div>
----
-
 Feel free to reach out via sariola.disa@gmail.com
 
 <div class="text-center mt-4">
