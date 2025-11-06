@@ -8,7 +8,7 @@ permalink: /publications/
 <h2 class="mb-3">Conference Proceedings</h2>
 
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-md-12">
     <div class="border p-4 mb-4 rounded">
       <h4 class="mb-2">The Illusion of Fairness: Auditing Fairness Interventions in Algorithmic Hiring with Audit Studies</h4>
       <p><em>AAAI - AISI Track</em>, 2026</p>
@@ -18,7 +18,7 @@ permalink: /publications/
     </div>
   </div>
 
-  <div class="col-md-6">
+  <div class="col-md-12">
     <div class="border p-4 mb-4 rounded">
       <h4 class="mb-2">Auditing and Validating Fairness and Ethics in Machine Learning Systems</h4>
       <p><em><a href="https://ojs.aaai.org/index.php/AIES/article/view/36795" target="_blank">AI, Ethics, and Society (AAAI Conference on Ethics)</a></em>, 2025</p>
