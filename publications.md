@@ -25,6 +25,12 @@ permalink: /publications/
     </div>
   </div>
   <h2 class="mb-3">Other</h2>
+    <div class="col-md-12">
+    <div class="border p-4 mb-4 rounded">
+      <h4 class="mb-2">TRICS Graduate Student Honorable Mention Poster Awardees- 2024</h4>
+      <p>Fairness in Hiring Decisions Using ML Models and Audit Study Data</p>
+    </div>
+    </div>
   <div class="col-md-12">
     <div class="border p-4 mb-4 rounded">
       <h4 class="mb-2">CONSTRUIT! Project, Workshop C7, University of Warwick</h4>
