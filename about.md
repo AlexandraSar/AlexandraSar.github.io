@@ -5,19 +5,16 @@ permalink: /about/
 ---
 
 <div class="row">
-  <div class="custom-background">
   <div class="col-md-12">
     <div class="border p-4 mb-4 rounded">
       <h2>About Me</h2>
       <p>
       I am a PhD Candidate in Computer Science at Tulane University, where I study the intersection of algorithmic systems, causal inference, and social impact. My work focuses on understanding how automated decision-making systems can perpetuate or mitigate bias, and how we can design fairer, more accountable technologies. 
       </p>
-    </div>
   </div>
       </div>
 
  <div class="col-md-12">
-     <div class="custom-background">
 
     <div class="border p-4 mb-4 rounded">
       <h2>Current Role</h2>
@@ -35,7 +32,6 @@ permalink: /about/
 </li>
         </ul>
       </p>
-    </div>
         </div>
 
   </div>
