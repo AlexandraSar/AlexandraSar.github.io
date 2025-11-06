@@ -18,7 +18,7 @@ title: "Home"
 
 
 <div class="card p-3 mb-4 shadow-sm">
-  <h2>Research Interests</h2>
+  <h2 align="center">Research Interests</h2>
   <ul>
     <li>
       <strong>Causal Inference and Attributing Bias Source:</strong><br>
