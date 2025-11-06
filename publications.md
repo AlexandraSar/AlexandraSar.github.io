@@ -38,6 +38,11 @@ permalink: /publications/
     </div>
     </div>
     </div>
-[About Me](/about/) | [Publications](/publications/) | [Teaching](/teaching/) | [Return](/)
+<div class="text-center mt-4">
+  <a href="/publications/" class="btn btn-outline-primary mx-2">Publications</a>
+  <a href="/teaching/" class="btn btn-outline-primary mx-2">Teaching</a>
+  <a href="/about/" class="btn btn-outline-primary mx-2">About Me</a>
+  <a href="/" class="btn btn-outline-primary mx-2">Return to Home</a>
+</div>
 
 
