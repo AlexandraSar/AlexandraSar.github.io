@@ -6,7 +6,7 @@ permalink: /teaching/
 <h1 class="mb-4">Teaching Experience</h1>
 
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-md-12">
     <div class="border p-4 mb-4 rounded">
       <h3 class="mb-2">Intro to Systems and Networking</h3>
       <p><strong>Institution:</strong> Tulane University</p>
@@ -18,7 +18,7 @@ permalink: /teaching/
       </p>
     </div>
   </div>
-  <div class="col-md-6">
+  <div class="col-md-12">
     <div class="border p-4 mb-4 rounded">
       <h3 class="mb-2">Intro to Computer Science I</h3>
       <p><strong>Institution:</strong> Tulane University</p>
