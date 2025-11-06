@@ -4,7 +4,8 @@ title: "Home"
 ---
 
 <div class="card p-3 mb-4 shadow-sm">
-  <h2 align="center">Disa Sariola, PhD Candidate in Computer Science</h2>
+  <h2>Disa Sariola</h2>
+  <h2> </h2>PhD Candidate in Computer Science</h2>
   <p align="center">
   <img src="unnamed.jpg" alt="My Photo" width="250" style="border-radius: 8px;">
       </p>
