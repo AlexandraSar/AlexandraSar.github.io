@@ -1,6 +1,11 @@
-body {
+main {
   background-color: #F0D1D7; /* Queen Pink */
+  padding: 2rem;
+  border-radius: 8px;
 }
-.card, .border, .rounded {
-  background-color: white;
+.container {
+  background-color: #F0D1D7;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
 }
