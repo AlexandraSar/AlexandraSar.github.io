@@ -25,6 +25,13 @@ permalink: /publications/
 
     </div>
   </div>
+  <h2 class="mb-3">Other</h2>
+  <div class="col-md-12">
+    <div class="border p-4 mb-4 rounded">
+      <h4 class="mb-2">CONSTRUIT! Project, Workshop C7, University of Warwick</h4>
+      <p>EU funded research between European Universities about construals for purposes and their applications towards creating open interactive resources</p>
+    </div>
+    </div>
 </div>
 
 [About Me](/about/) | [Publications](/publications/) | [Teaching](/teaching/)
