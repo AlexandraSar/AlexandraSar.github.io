@@ -2,20 +2,16 @@
 layout: default
 title: "Home"
 ---
-
+<p align="center">
 <div class="card p-3 mb-4 shadow-sm">
   <h2>Disa Sariola, PhD Candidate in Computer Science</h2>
   <img src="unnamed.jpg" alt="My Photo" width="250" style="border-radius: 8px;">
-
   <p><strong>Institution:</strong> Tulane University</p>
   <p><strong>Office:</strong> 411 Stanley Thomas Hall</p>
   <p><strong>Address:</strong> 6823 St. Charles Avenue<br>
   New Orleans, LA 70118</p>
 </div>
-<p align="center">
 </p>
-
-
 <div class="card p-3 mb-4 shadow-sm">
   <h2>Research Interests</h2>
   <ul>
