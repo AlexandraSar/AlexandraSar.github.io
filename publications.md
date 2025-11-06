@@ -37,7 +37,7 @@ permalink: /publications/
       <p>EU funded research between European Universities about construals for purposes and their applications towards creating open interactive resources</p>
     </div>
     </div>
-
+    </div>
 [About Me](/about/) | [Publications](/publications/) | [Teaching](/teaching/)
 
 
