@@ -3,7 +3,7 @@ layout: default
 title: "About"
 permalink: /about/
 ---
-  <img src="unnamed.jpg" alt="My Photo" width="250" style="border-radius: 8px;">
+  <img src="hats.jpg" alt="My Photo" width="250" style="border-radius: 8px;">
 
 <div class="row">
   <div class="col-md-12">
