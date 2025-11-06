@@ -14,4 +14,7 @@ permalink: /publications/
 2. **Auditing and Validating Fairness and Ethics in Machine Learning Systems**  
    *Ai, Ethics, and Society (AAAI conference on Ethics)*, 2025. https://ojs.aaai.org/index.php/AIES/article/view/36795
 
+   
+[About Me](/about/) | [Publications](/publications/) | [Teaching](/teaching/)
+
 
