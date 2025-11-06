@@ -12,8 +12,9 @@ title: "Home"
   <p><strong>Office:</strong> 411 Stanley Thomas Hall</p>
   <p><strong>Address:</strong> 6823 St. Charles Avenue<br>
   New Orleans, LA 70118</p>
+      </p>
 </div>
-    </p>
+
 
 <div class="card p-3 mb-4 shadow-sm">
   <h2>Research Interests</h2>
