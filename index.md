@@ -4,13 +4,11 @@ title: "Home"
 ---
 
 <div class="card p-3 mb-4 shadow-sm">
-  <div class="custom-background">
   <h2>Disa Sariola, PhD Candidate in Computer Science</h2>
   <p><strong>Institution:</strong> Tulane University</p>
   <p><strong>Office:</strong> 411 Stanley Thomas Hall</p>
   <p><strong>Address:</strong> 6823 St. Charles Avenue<br>
   New Orleans, LA 70118</p>
-</div>
 </div>
 
 <div class="card p-3 mb-4 shadow-sm">
