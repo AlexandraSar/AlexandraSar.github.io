@@ -7,11 +7,7 @@ navigation:
     url: /about/
   - title: "Research"
     children:
-      - title: "Interests"
-        url: /research/interests/
       - title: "Publications"
         url: /research/publications/
   - title: "Teaching"
     url: /teaching/
-  - title: "Contact"
-    url: /contact/
