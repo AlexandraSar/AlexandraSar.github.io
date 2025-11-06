@@ -22,8 +22,8 @@ permalink: /publications/
     <div class="border p-4 mb-4 rounded">
       <h4 class="mb-2">Auditing and Validating Fairness and Ethics in Machine Learning Systems</h4>
       <p><em><a href="https://ojs.aaai.org/index.php/AIES/article/view/36795" target="_blank">AI, Ethics, and Society (AAAI Conference on Ethics)</a></em>, 2025</p>
-
     </div>
+  </div>
   <h2 class="mb-3">Other</h2>
   <div class="col-md-12">
     <div class="border p-4 mb-4 rounded">
