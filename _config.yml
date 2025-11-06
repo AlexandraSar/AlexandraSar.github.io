@@ -8,6 +8,6 @@ navigation:
   - title: "Research"
     children:
       - title: "Publications"
-        url: /research/publications/
+        url: /publications/
   - title: "Teaching"
     url: /teaching/
