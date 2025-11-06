@@ -30,12 +30,12 @@ Tulane University, Advisor Prof. Nicholas Mattei
 ---
 
 ## Teaching Experience
-**Intro to Systems and Networking ** – [Tulane University]  
+**Intro to Systems and Networking** – [Tulane University]  
 Role: TA  
 Professor: Prof. Matthew Toups
 Semester: [Spring 2023] 
 
-**Intro to Computer Science I ** – [Tulane University]  
+**Intro to Computer Science I** – [Tulane University]  
 Role: TA  
 Professor: Prof. Matthew Toups
 Semester: [Fall 2022]  
