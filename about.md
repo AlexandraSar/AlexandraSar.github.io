@@ -49,3 +49,9 @@ Outside the lab, I spend a lot of time at the gym, drawing, or hanging out with 
 ---
 
 Feel free to reach out via sariola.disa@gmail.com
+
+<div class="text-center mt-4">
+  <a href="/publications/" class="btn btn-outline-primary mx-2">Publications</a>
+  <a href="/teaching/" class="btn btn-outline-primary mx-2">Teaching</a>
+  <a href="/contact/" class="btn btn-outline-primary mx-2">Contact</a>
+</div>
