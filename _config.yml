@@ -11,3 +11,14 @@ navigation:
         url: /publications/
   - title: "Teaching"
     url: /teaching/
+sass:
+  style: compressed
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+      css: "/assets/css/style.css"
