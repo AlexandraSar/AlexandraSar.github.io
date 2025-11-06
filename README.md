@@ -1,6 +1,6 @@
 # Disa Sariola
 PhD Candidate in Computer Science | Tulane University 
-New Orleans, Louisiana | ✉️ sariola.disa@gmail.com 
+New Orleans, Louisiana | sariola.disa@gmail.com 
 
 ---
 
