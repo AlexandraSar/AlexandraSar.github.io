@@ -13,7 +13,6 @@ permalink: /about/
       </p>
     </div>
   </div>
-  
  <div class="col-md-12">
     <div class="border p-4 mb-4 rounded">
       <h2>Current Role</h2>
@@ -49,5 +48,4 @@ Feel free to reach out via sariola.disa@gmail.com
 <div class="text-center mt-4">
   <a href="/publications/" class="btn btn-outline-primary mx-2">Publications</a>
   <a href="/teaching/" class="btn btn-outline-primary mx-2">Teaching</a>
-  <a href="/contact/" class="btn btn-outline-primary mx-2">Contact</a>
 </div>
