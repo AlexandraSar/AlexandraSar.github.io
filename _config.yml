@@ -1,7 +1,5 @@
 title: "Disa Sariola"
-remote_theme: dieghernan/chulapa
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-primer
 description: "PhD Candidate"
 
 navigation:
