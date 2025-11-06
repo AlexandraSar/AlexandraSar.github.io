@@ -10,6 +10,10 @@ title: "Home"
   <p><strong>Address:</strong> 6823 St. Charles Avenue<br>
   New Orleans, LA 70118</p>
 </div>
+<p align="center">
+  <img src="unnamed.jpg" alt="My Photo" width="250" style="border-radius: 8px;">
+</p>
+
 
 <div class="card p-3 mb-4 shadow-sm">
   <h2>Research Interests</h2>
