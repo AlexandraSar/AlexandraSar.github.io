@@ -37,4 +37,9 @@ title: "Home"
 Feel free to reach out via dsariola@tulane.edu / sariola.disa@gmail.com
 
 
-[About Me](/about/) | [Publications](/publications/) | [Teaching](/teaching/)
+<div class="text-center mt-4">
+  <a href="/publications/" class="btn btn-outline-primary mx-2">Publications</a>
+  <a href="/teaching/" class="btn btn-outline-primary mx-2">Teaching</a>
+  <a href="/about/" class="btn btn-outline-primary mx-2">About Me</a>
+  <a href="/" class="btn btn-outline-primary mx-2">Return to Home</a>
+</div>
