@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 <div class="row">
-  <div class="col-md-6">
-    <div class="card p-3 mb-4 shadow-sm">
+  <div class="col-md-12">
+    <div class="border p-4 mb-4 rounded">
       <h2>About Me</h2>
       <p>
       I am a PhD Candidate in Computer Science at Tulane University, where I study the intersection of algorithmic systems, causal inference, and social impact. My work focuses on understanding how automated decision-making systems can perpetuate or mitigate bias, and how we can design fairer, more accountable technologies. 
@@ -14,8 +14,8 @@ permalink: /about/
     </div>
   </div>
   
- <div class="col-md-6">
-    <div class="card p-3 mb-4 shadow-sm">
+ <div class="col-md-12">
+    <div class="border p-4 mb-4 rounded">
       <h2>Current Role</h2>
       <p><strong>PhD Candidate</strong><br>
       Computer Science, Tulane <br>
@@ -36,8 +36,8 @@ permalink: /about/
 </div>
 <hr>
 <div class="row">
-  <div class="col-md-6">
-    <div class="card p-3 mb-4 shadow-sm">
+  <div class="col-md-12">
+    <div class="border p-4 mb-4 rounded">
       <h2>Outside the Lab</h2>
       <p>
 Outside the lab, I spend a lot of time at the gym, drawing, or hanging out with our cats. I also have a long history with horses and I worked with them professionally in Europe, and they were a big part of my life for years. These days, I'm more of an observer than a rider, but I still enjoy watching and appreciating them whenever I get the chance. I also read a lot of non-fiction.
