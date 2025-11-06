@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 <div class="row">
+  <div class="custom-background">
   <div class="col-md-12">
     <div class="border p-4 mb-4 rounded">
       <h2>About Me</h2>
@@ -13,7 +14,11 @@ permalink: /about/
       </p>
     </div>
   </div>
+      </div>
+
  <div class="col-md-12">
+     <div class="custom-background">
+
     <div class="border p-4 mb-4 rounded">
       <h2>Current Role</h2>
       <p><strong>PhD Candidate</strong><br>
@@ -31,6 +36,8 @@ permalink: /about/
         </ul>
       </p>
     </div>
+        </div>
+
   </div>
 </div>
 <hr>
