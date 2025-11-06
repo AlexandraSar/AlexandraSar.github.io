@@ -7,12 +7,13 @@ title: "Home"
   <h2>Disa Sariola, PhD Candidate in Computer Science</h2>
   <p align="center">
   <img src="unnamed.jpg" alt="My Photo" width="250" style="border-radius: 8px;">
-
-  <p><strong>Institution:</strong> Tulane University</p>
-  <p><strong>Office:</strong> 411 Stanley Thomas Hall</p>
-  <p><strong>Address:</strong> 6823 St. Charles Avenue<br>
-  New Orleans, LA 70118</p>
       </p>
+
+  <p align="center"><strong>Institution:</strong> Tulane University</p>
+  <p align="center"><strong>Office:</strong> 411 Stanley Thomas Hall</p>
+  <p align="center"><strong>Address:</strong> 6823 St. Charles Avenue<br>
+  New Orleans, LA 70118</p>
+
 </div>
 
 
