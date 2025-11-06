@@ -38,6 +38,6 @@ permalink: /publications/
     </div>
     </div>
     </div>
-[About Me](/about/) | [Publications](/publications/) | [Teaching](/teaching/)
+[About Me](/about/) | [Publications](/publications/) | [Teaching](/teaching/) | [Return](/)
 
 
