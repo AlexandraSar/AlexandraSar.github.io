@@ -3,7 +3,6 @@ layout: default
 title: "Home"
 ---
 
-# Disa Sariola
 PhD Candidate in Computer Science | Tulane University | 411 Stanley Thomas Hall, 6823 St. Charles Avenue New Orleans LA, 70118
 New Orleans, Louisiana | sariola.disa@gmail.com 
 
