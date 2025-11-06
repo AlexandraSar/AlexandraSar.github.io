@@ -31,8 +31,6 @@ permalink: /teaching/
     </div>
   </div>
 </div>
-
-
 <div class="text-center mt-4">
   <a href="/publications/" class="btn btn-outline-primary mx-2">Publications</a>
   <a href="/teaching/" class="btn btn-outline-primary mx-2">Teaching</a>
